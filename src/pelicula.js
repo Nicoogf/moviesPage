@@ -3,7 +3,7 @@ export default function pelicula(props) {
 
         <div className="movie-item-style-2">
 
-            <img src="images/uploads/mv1.jpg" alt="" />
+            <img src={props.img}alt="" />
 
             <div className="mv-item-infor">
 
