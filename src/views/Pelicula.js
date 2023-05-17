@@ -1,4 +1,4 @@
-export default function pelicula(props) {
+export default function Pelicula(props) {
     return (
 
         <div className="movie-item-style-2">
